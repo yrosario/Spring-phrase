@@ -1,0 +1,6 @@
+package com.simplilearn.workshop.repository;
+
+public Interface CustomerRepository {
+
+	public List<Customer>  findAll();
+}

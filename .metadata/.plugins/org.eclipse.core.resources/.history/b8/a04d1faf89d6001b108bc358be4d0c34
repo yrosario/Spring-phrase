@@ -1,0 +1,6 @@
+package com.simplilearn.workshop.repository;
+
+public class InMemoryCustomerRepositoryImpl implements CustomerRepository {
+
+	private static List<Customer1> customer_list = new ArrayList()<Customer>()
+}
